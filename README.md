@@ -1,4 +1,4 @@
-# ✍️ php를 활용한 팀 프로젝트 : 📚 하루 한 지문 📚
+# php를 활용한 팀 프로젝트 : PLANTY
 
 ![phpTeamMain](https://raw.githubusercontent.com/kebab000/php_team-23/main/html/assets/img/MAIN/php-team.png)
 
